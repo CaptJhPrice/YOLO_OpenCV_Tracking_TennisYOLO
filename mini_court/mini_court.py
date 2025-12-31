@@ -28,8 +28,8 @@ class MiniCourt():
     def convert_meters_to_pixels(self, meters):
         return convert_meters_to_pixel_distance(meters,
                                                 constants.DOUBLE_LINE_WIDTH,
-                                                self.court_drawing_width
-                                            )
+                                                self.court_drawing_width)
+                                            
 
     def set_court_drawing_key_points(self):
         drawing_key_points = [0]*28
