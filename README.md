@@ -130,11 +130,7 @@ MIT License — feel free to use, modify, and share.
 
 ---
 
-## 🙌 Acknowledgements
 
-- YOLOv8 by Ultralytics
-- OpenCV community
-- ATP/WTA match analytics inspiration
 
 ---
 
