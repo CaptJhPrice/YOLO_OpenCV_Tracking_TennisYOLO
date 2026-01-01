@@ -34,7 +34,7 @@ class MiniCourt():
     def set_court_drawing_key_points(self):
         drawing_key_points = [0]*28
 
-        # point 0 
+        
         drawing_key_points[0] , drawing_key_points[1] = int(self.court_start_x), int(self.court_start_y)
         # point 1
         drawing_key_points[2] , drawing_key_points[3] = int(self.court_end_x), int(self.court_start_y)
