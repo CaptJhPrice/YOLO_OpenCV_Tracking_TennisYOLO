@@ -9,6 +9,7 @@ def draw_player_stats(output_video_frames,player_stats):
         player_1_speed = row['player_1_last_player_speed']
         player_2_speed = row['player_2_last_player_speed']
 
+        
         avg_player_1_shot_speed = row['player_1_average_shot_speed']
         avg_player_2_shot_speed = row['player_2_average_shot_speed']
         avg_player_1_speed = row['player_1_average_player_speed']
