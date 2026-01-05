@@ -9,6 +9,7 @@ def read_video(video_path):
             break
         frames.append(frame)
     cap.release()
+    
     return frames
 
 
