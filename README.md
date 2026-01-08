@@ -126,6 +126,8 @@ ultralytics
 
 ---
 
+
+
 ## 📄 License
 
 MIT License — feel free to use, modify, and share.
