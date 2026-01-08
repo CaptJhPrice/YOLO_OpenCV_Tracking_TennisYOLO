@@ -18,10 +18,8 @@ def get_closest_keypoint_index(point, keypoints, keypoint_indices):
        
        if distance<closest_distance:
            closest_distance = distance
-           key_point_ind = keypoint_indix
-    
+           key_point_ind = keypoint_indix 
    return key_point_ind
-
 
 def get_height_of_bbox(bbox):
     return bbox[3]-bbox[1]
