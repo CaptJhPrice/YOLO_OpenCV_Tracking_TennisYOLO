@@ -1,4 +1,4 @@
-# 🎾 Tennis Match Analysis & Visualization
+ # 🎾 Tennis Match Analysis & Visualization
 
 This project uses deep learning and computer vision to **analyze tennis match videos**. It tracks players and the ball, detects key events, calculates advanced metrics (like shot speed and player speed), and renders a final video with real-time visual overlays.
 
@@ -12,7 +12,6 @@ This project uses deep learning and computer vision to **analyze tennis match vi
 - ⚡ **Shot Speed Calculation** (in km/h)
 - 🏃 **Player Movement Tracking**
 - 📊 **Statistical Overlays** (live on video)
-- 💾 **Detection Caching** using pickle stubs for faster debugging
 
 ---
 
