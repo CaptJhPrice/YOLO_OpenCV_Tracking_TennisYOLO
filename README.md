@@ -49,7 +49,6 @@ tennis_project/
 git clone https://github.com/Djier/tennis-match-analysis.git
 cd tennis-match-analysis
 ```
-
 ### 2. Install Dependencies
 Make sure you have Python 3.8+ and run:
 ```bash
