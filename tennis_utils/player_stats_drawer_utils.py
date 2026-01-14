@@ -44,7 +44,6 @@ def draw_player_stats(output_video_frames,player_stats):
         text = f"{player_1_speed:.1f} km/h    {player_2_speed:.1f} km/h"
         output_video_frames[index] = cv2.putText(output_video_frames[index], text, (start_x+130, start_y+120), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 255, 255), 2)
         
-        
         text = "avg. S. Speed"
         output_video_frames[index] = cv2.putText(output_video_frames[index], text, (start_x+10, start_y+160), cv2.FONT_HERSHEY_SIMPLEX, 0.45, (255, 255, 255), 1)
         text = f"{avg_player_1_shot_speed:.1f} km/h    {avg_player_2_shot_speed:.1f} km/h"
