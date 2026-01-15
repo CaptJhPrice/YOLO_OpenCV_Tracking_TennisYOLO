@@ -116,12 +116,7 @@ ultralytics
 
 ---
 
-## 🧠 Future Improvements
 
-- [ ] Rally segmentation & serve detection
-- [ ] Heatmaps for player coverage
-- [ ] Integration with web dashboard
-- [ ] Highlight reel generation
 
 ---
 
